@@ -25,7 +25,7 @@
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
           <a title="打赏站长" target="_blank" href="/dasang.html">
-            <img class="w-8" src="@/assets/images/footer/sang.svg" />
+            <img class="w-8" src="@/assets/images/footer/shang.svg" />
           </a>
           <a title="蜂巢云盘" target="_blank" rel="nofollow" href="https://www.beeseek.cn">
             <img class="w-8" src="@/assets/images/footer/Beefc.svg" />
